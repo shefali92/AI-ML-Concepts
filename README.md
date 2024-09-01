@@ -3,6 +3,7 @@
 Welcome to **AI-ML-Concepts**! 
 Through this repository, my goal is to create a comprehensive overview and guide of essential concepts in Artificial Intelligence (AI) and Machine Learning (ML) .
 I will update the repository every week with AI topics and their explanations.
+Happy Learning !!
 
 ## Overview
 
@@ -16,6 +17,4 @@ This repository is designed for:
 
 - **Core Concepts:** Explanations of fundamental AI and ML principles.
 
-# All opinions are my own. 
-
-# Happy Learning !
+All opinions are my own. 
