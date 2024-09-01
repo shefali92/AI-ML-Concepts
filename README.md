@@ -16,6 +16,6 @@ This repository is designed for:
 
 - **Core Concepts:** Explanations of fundamental AI and ML principles.
 
-## All opinions are my own. 
+# All opinions are my own. 
 
-## Happy Learning !
+# Happy Learning !
